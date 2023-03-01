@@ -6,7 +6,7 @@ medical images, binary class classification
 * Number of test samples: 57458
 * Image size: 96 * 96 * 3
 
-The task is binary class classificatoin, and our goal is to train a model that can read the medical images and distinguish positive cases from negatives.
+The task is binary class classificatoin, and our goal is to train a model that can read the medical images and distinguish positive cases from negatives. You can find the full dataset on Kaggle: https://www.kaggle.com/competitions/histopathologic-cancer-detection/overview
 
 ## EDA
 All images are the same shape, and there are no duplicates. They are ready to be used for training. 
